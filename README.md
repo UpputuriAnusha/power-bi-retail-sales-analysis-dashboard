@@ -56,54 +56,74 @@ Extracted:
 
 🧮 Key DAX Measures
 
-Total Sales
+> Total Sales
 
-Total Profit
+> Total Profit
 
-Total Orders
+> Total Orders
 
-Profit Margin
+> Profit Margin
 
 📊 Dashboard 1: Executive Sales Overview
 
 Key Highlights:
 
-Total Sales: 2.33M
+> Total Sales: 2.33M
 
-Total Profit: 292K
+> Total Profit: 292K
 
-Total Orders: 10K
+> Total Orders: 10K
 
 Insights:
 
-Sales show consistent growth from 2020 to 2023
+> Sales show consistent growth from 2020 to 2023
 
-West region contributes significantly to revenue
+> West region contributes significantly to revenue
 
-Technology category generates the highest sales
+> Technology category generates the highest sales
 
-Profit trend aligns with sales growth but varies across regions
+> Profit trend aligns with sales growth but varies across regions
 
 📈 Dashboard 2: Sales Analysis
 
 Key Visuals:
 
-Monthly Sales Trend
+> Monthly Sales Trend
 
-Sales by Category & Sub-category
+> Sales by Category & Sub-category
 
-Top 10 Products by Sales
+> Top 10 Products by Sales
 
-Sales by Customer Segment
+> Sales by Customer Segment
 
 🔍 Key Insights
 
-Sales peak during Q4 months, indicating seasonal demand
+> Sales peak during Q4 months, indicating seasonal demand
 
-A small number of products contribute to a large portion of revenue (Pareto Principle)
+> A small number of products contribute to a large portion of revenue (Pareto Principle)
 
-Technology category dominates sales performance
+> Technology category dominates sales performance
 
-Consumer segment generates the highest revenue share
+> Consumer segment generates the highest revenue share
 
-Some sub-categories underperform despite high sales
+> Some sub-categories underperform despite high sales
+
+💡 Business Recommendations
+
+> Focus on high-performing products to maximize revenue
+
+> Optimize pricing strategies for low-profit categories
+
+> Increase marketing efforts during peak sales months
+
+> Target high-value customer segments for retention
+
+🛠️ Tools & Technologies
+
+> Power BI
+> Power Query
+> DAX (Data Analysis Expressions)
+
+Conclusion
+
+This project demonstrates how raw retail data can be transformed into meaningful business insights using Power BI. By performing data cleaning, modeling, and advanced analysis, the dashboard provides a clear view of sales performance, profitability trends, and customer behavior.
